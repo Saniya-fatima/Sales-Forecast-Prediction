@@ -5,6 +5,7 @@
 
 This project aims to predict the sales of products in Big Mart outlets using machine learning techniques, specifically sklearn and XGBoost.
 
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
@@ -15,7 +16,7 @@ This project aims to predict the sales of products in Big Mart outlets using mac
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
 - [Conclusion](#conclusion)
-- [License](#license)
+
 
 ## Introduction
 Predicting sales accurately is crucial for retail businesses to manage inventory, optimize operations, and increase revenue. This project leverages machine learning algorithms to predict the sales of various products at Big Mart outlets.

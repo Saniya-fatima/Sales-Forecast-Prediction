@@ -5,6 +5,9 @@
 
 This project aims to predict the sales of products in Big Mart outlets using machine learning techniques, specifically sklearn and XGBoost.
 
+![Screenshot 2024-07-07 150524](https://github.com/Saniya-fatima/Sales-Forecast-Prediction/assets/122198174/764d4b32-5c46-4a61-839f-521638dfb8ec)
+
+
 
 ## Table of Contents
 - [Introduction](#introduction)

@@ -7,6 +7,7 @@ This project aims to predict the sales of products in Big Mart outlets using mac
 
 ![Screenshot 2024-07-07 150524](https://github.com/Saniya-fatima/Sales-Forecast-Prediction/assets/122198174/764d4b32-5c46-4a61-839f-521638dfb8ec)
 
+![Screenshot 2024-07-07 150604](https://github.com/Saniya-fatima/Sales-Forecast-Prediction/assets/122198174/dca8170a-fefc-48d4-91a1-92f910f9b198)
 
 
 ## Table of Contents
